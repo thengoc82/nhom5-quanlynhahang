@@ -1,0 +1,20 @@
+# IDE
+.DS_Store
+.metadata/
+.classpath
+.project
+.settings/
+*.launch
+
+# Build
+bin/
+*.class
+
+# Dependencies
+*.jar
+
+# Logs
+*.log
+
+# Keys
+id_key*
